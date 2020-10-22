@@ -6,7 +6,7 @@ https://github.com/NVIDIA/NeMo
 NeMo: a toolkit for building AI applications using Neural Modules  
 https://arxiv.org/pdf/1909.09577.pdf
 
-QUARTZNET: DEEP AUTOMATIC SPEECH RECOGNITION WITH 1D TIME-CHANNELSEPARABLE CONVOLUTIONS   
+QUARTZNET: DEEP AUTOMATIC SPEECH RECOGNITION WITH 1D TIME-CHANNEL SEPARABLE CONVOLUTIONS   
 https://arxiv.org/pdf/1910.10261.pdf
 
 
